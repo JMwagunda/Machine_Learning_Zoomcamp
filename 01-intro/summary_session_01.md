@@ -46,21 +46,3 @@
    Pandas is a Python library used for processing and analyzing tabular data efficiently.
 
 ---
-
-<table>
-   <tr>
-      <td>⚠️</td>
-      <td>
-         The notes are written by the community. <br>
-         If you see an error here, please create a PR with a fix.
-      </td>
-   </tr>
-</table>
-* [Notes from Maximilien Eyengue](https://github.com/maxim-eyengue/Python-Codes/blob/main/ML_Zoomcamp_2024/01_intro/Summary_Session_01.md)
-
-## Navigation
-
-* [Machine Learning Zoomcamp course](../)
-* [Lesson 1: Introduction to Machine Learning](./)
-* Previous: [Introduction to Pandas](09-pandas.md)
-* Next: [Homework](homework.md)
